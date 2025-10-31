@@ -96,7 +96,10 @@ pip install -r requirements.txt
 
 ### Deliverables
 1. Complete the `LALIGA_Analysis_Challenge.ipynb` notebook (submitted via Gradescope)
-2. The `submission.csv` file (uploaded to Kaggle)
+2. Predict the results of the test set and submit it to Kaggle: [Kaggle Competition](https://www.kaggle.com/t/7580a48e8a1b4054b942eec788bc551a) as a csv file with the following columns:
+    - `id` → Unique shot identifier  
+    - `is_goal` -- probability of the shot being a goal
+
 
 - Ensure your code is properly formatted, readable, and commented.
 - All visualizations should include clear titles, proper axis labels, and meaningful legends.
@@ -137,9 +140,11 @@ Any violations of the AI generation or collaboration policy will be treated as a
 
 ## Submission
 
-**Kaggle Competition**: Stay tuned for Kaggle competition details.
+Submit your completed notebook to Gradescope.
 
-**Submission Deadline**: Refer to Piazza and Gradescope for exact submission deadlines.
+Predict the results of the test set and submit it to Kaggle:
+
+* [Kaggle Competition](https://www.kaggle.com/t/7580a48e8a1b4054b942eec788bc551a)
 
 ---
 
