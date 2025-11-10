@@ -5,3 +5,7 @@ seaborn
 scikit-learn
 scipy
 ipykernel
+imbalanced-learn
+xgboost
+lightgbm
+catboost
